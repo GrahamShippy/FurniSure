@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to FurniSURE
 
-You can use the [editor on GitHub](https://github.com/GrahamShippy/FurniSure/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+With FurniSURE, you can preview any piece of furniture available at your local furniture retailers. Using virtual reality, you can view couches, recliners, entertainment stands, refridgerators, and more as it would look in your home. Whether you're shopping online or doing your research before going in person, FurniSURE arms you with the knowledge and confidence that your furniture decisions will be a perfect fit for your home and meet or exceed expectations. 
+
+To get started, we need to identify the stores near you. Enter your zip code below.
+
+
+
+If you're shopping online, don't worry about the You can use the [editor on GitHub](https://github.com/GrahamShippy/FurniSure/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
